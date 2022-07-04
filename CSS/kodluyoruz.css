@@ -1,9 +1,13 @@
 
-body{background-color: aqua;}
-h2 {
+body{
+    background-color: aqua;
+}
+
+h2{
     color:red;
     font-size :32px;
     text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
 }
 p{
     color:black;
