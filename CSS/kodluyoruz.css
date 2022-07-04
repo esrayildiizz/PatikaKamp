@@ -35,12 +35,19 @@ p{
 }
 */
 
-.container{
-    background-color: red;
+.box{
+    
     width: 200px;
     height: 200px;
+    padding: 15px;
+    margin:10px;
 }
 
+.bg-red{
+    background-color: red;
+}
 
-
+.bg-green{
+    background-color: green;
+}
 
